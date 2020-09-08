@@ -11,6 +11,11 @@ This is the official website for the West Ridge High School Computer Club. Go Be
 
 ## Announcements
 ```
+WRHS Beavers take first place in University of Rochester K12 Hackathon!
+Go team!
+```
+
+```
 Congratulations to Ox Bellows for being accepted to the University of Rochester!
 You're destined to go far!
 ```
@@ -28,11 +33,6 @@ Great job everyone!
 ```
 Special meeting after school on the 7th!
 All members should be in attendance!
-```
-
-```
-We're happy to name Darrin Williams as the new Event Scheduler!
-Hopefully this change will bring lots of fresh ideas to the table!
 ```
 
 [more](#announcements)
