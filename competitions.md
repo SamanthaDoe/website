@@ -7,6 +7,7 @@
 
 ## Competitions
 
+- [University of Rochester K12 Hackathon](#competitions)
 - [Race to HackTheBox](https://www.hackthebox.eu/)
 - [City of NY Hackathon](#competitions)
 - [Hackalacken Hackathon](#competitions)
